@@ -1,2 +1,2 @@
 # DNA-Transcription-and-Translation
-A java program which digitally mimics DNA transcription and translation on genetic data
+A java program which implements the use of object oriented programming, the queue data structure and interfaces to digitally mimic DNA transcription and translation on genetic data. When inputted DNA data in the form of codons, it can output the corresponding mRNA chain code as well as its resulting amino acid sequence chain. The code logic has also been unit tested with exception handling to check its correctness in functionality.
